@@ -19,6 +19,6 @@ Passionate about creating efficient and well-designed solutions, both frontend a
 - Linux
 
 ## Wanna reach out?
-- ✉️ **Email:** cesar.claros49@gmail.com
-- 🌐 **Portafolio:** https://cesar-claros.vercel.app
-- 💼 **LinkedIn:** https://linkedin.com/in/cesar-claros-622236312
+- **Email:** cesar.claros49@gmail.com
+- **Portafolio:** cesar-claros.vercel.app
+- **LinkedIn:** linkedin.com/in/cesar-claros-622236312
