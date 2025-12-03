@@ -6,7 +6,7 @@ Passionate about building efficient, modern, and well-designed applications acro
 ### 🛠️ Tech Stack  
 **Frontend:** React · Next.js · TypeScript  
 **Backend:** Node.js · Spring Boot · PostgreSQL  
-**DevOps / Tools:** Docker · Git · Linux  
+**DevOps / Tools:** Docker · Git · Linux · Kubernetes
 
 ### 📬 Contact  
 ✉️ **Email:** cesar.claros49@gmail.com  
