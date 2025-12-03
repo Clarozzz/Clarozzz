@@ -1,24 +1,14 @@
-# Hi there I’m Cesar👋
+# Hi, I’m Cesar 👋  
+**Software Developer**
 
-## Software developer
-Passionate about creating efficient and well-designed solutions, both frontend and backend. I enjoy working with modern technologies and building clean, fast, and functional digital experiences.
+Passionate about building efficient, modern, and well-designed applications across both frontend and backend.
 
-## TechStack
-### **Frontend**
-- React / Next.js
-- TypeScript
+### 🛠️ Tech Stack  
+**Frontend:** React · Next.js · TypeScript  
+**Backend:** Node.js · Spring Boot · PostgreSQL  
+**DevOps / Tools:** Docker · Git · Linux  
 
-### **Backend**
-- Node.js
-- Spring Boot
-- PostgreSQL
-
-### **DevOps & Otros**
-- Docker
-- Git
-- Linux
-
-## Wanna reach out?
-- **Email:** cesar.claros49@gmail.com
-- **Portfolio:** [cesar-claros.vercel.app](https://cesar-claros.vercel.app)
-- **LinkedIn:** [linkedin.com/in/cesar-claros-622236312](https://linkedin.com/in/cesar-claros-622236312)
+### 📬 Contact  
+✉️ **Email:** cesar.claros49@gmail.com  
+🌐 **Portfolio:** [cesar-claros.vercel.app](https://cesar-claros.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/cesar-claros-622236312](https://linkedin.com/in/cesar-claros-622236312)
