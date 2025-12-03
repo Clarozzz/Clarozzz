@@ -1,5 +1,5 @@
 # Hi, I’m Cesar 👋  
-**Software Developer**
+##💻 Software Developer
 
 Passionate about building efficient, modern, and well-designed applications across both frontend and backend.
 
