@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there I’m Cesar👋
 
-<!--
-**Clarozzz/Clarozzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software developer
+Passionate about creating efficient and well-designed solutions, both frontend and backend. I enjoy working with modern technologies and building clean, fast, and functional digital experiences.
 
-Here are some ideas to get you started:
+## TechStack
+### **Frontend**
+- React / Next.js
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend**
+- Node.js
+- Spring Boot
+- PostgreSQL
+
+### **DevOps & Otros**
+- Docker
+- Git
+- Linux
+
+## Wanna reach out?
+- ✉️ **Email:** cesar.claros49@gmail.com
+- 🌐 **Portafolio:** https://cesar-claros.vercel.app
+- 💼 **LinkedIn:** https://linkedin.com/in/cesar-claros-622236312
