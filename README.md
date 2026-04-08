@@ -9,6 +9,6 @@ React · Next.js · TypeScript
 - **Backend:**  
 Node.js · Spring Boot · PostgreSQL  
 - **DevOps / Tools:**  
-Docker · Git · Linux · Kubernetes · Jenkins
+Docker · Git · Linux · Kubernetes · CI/CD
 - **Cloud**  
 AWS · Digital Ocean
