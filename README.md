@@ -5,7 +5,7 @@ Passionate about building efficient, modern, and well-designed applications acro
 
 ### 🛠️ Tech Stack  
 - **Frontend:**   
-React · Next.js · TypeScript  
+React · Next.js · Svelte · Angular
 - **Backend:**  
 Node.js · Spring Boot · PostgreSQL  
 - **DevOps / Tools:**  
